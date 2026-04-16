@@ -37,37 +37,38 @@ p {
 }
 
 .box1{
-  background-color: yellow;
-  height: 50vh;
+  background-color: orange;
+  color:white;
+  height: 90vh;
   width: 23vw;
   display:inline-block
 }
 
 .box2{
-  background-color: green;
-  height: 50vh;
+  background-color: purple;
+  color:white;
+  height: 90vh;
   width: 23vw;
   display:inline-block
 }
 
 .box3{
-  background-color: blue;
-  height: 50vh;
+  background-color: rgb(255, 155, 210);
+  color:white;
+  height: 90vh;
   width: 23vw;
   display:inline-block
 }
 
 .box4{
-  background-color: red;
-  height: 50vh;
+  background-color: rgb(0, 0, 0);
+  color:white;
+  height: 90vh;
   width: 23vw;
   display:inline-block
 }
 
-.div-styles{
-  display:inline-block
-  width
-}
+
 
 
 
