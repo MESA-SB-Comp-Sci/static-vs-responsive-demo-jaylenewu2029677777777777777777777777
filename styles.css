@@ -39,6 +39,7 @@ p {
 .box1{
   background-color: orange;
   color:white;
+  font-size: 2rem;
   height: 90vh;
   width: 23vw;
   display:inline-block
@@ -47,6 +48,7 @@ p {
 .box2{
   background-color: purple;
   color:white;
+  font-size: 2rem;
   height: 90vh;
   width: 23vw;
   display:inline-block
@@ -55,6 +57,7 @@ p {
 .box3{
   background-color: rgb(255, 155, 210);
   color:white;
+  font-size: 2rem;
   height: 90vh;
   width: 23vw;
   display:inline-block
@@ -63,10 +66,19 @@ p {
 .box4{
   background-color: rgb(0, 0, 0);
   color:white;
+  font-size: 2rem;
   height: 90vh;
   width: 23vw;
   display:inline-block
 }
+
+
+
+
+
+
+
+
 
 
 
