@@ -24,7 +24,7 @@ p {
 }
 .hero {
   height: 100vh; /* CHANGE TO: 100vh */
-  background: #1a1a2e;
+  background: #ffacd4;
   color: white;
 }
 
@@ -36,9 +36,40 @@ p {
   background-color: #1a1a2e;
 }
 
-box1{
+.box1{
   background-color: yellow;
+  height: 50vh;
+  width: 23vw;
+  display:inline-block
 }
+
+.box2{
+  background-color: green;
+  height: 50vh;
+  width: 23vw;
+  display:inline-block
+}
+
+.box3{
+  background-color: blue;
+  height: 50vh;
+  width: 23vw;
+  display:inline-block
+}
+
+.box4{
+  background-color: red;
+  height: 50vh;
+  width: 23vw;
+  display:inline-block
+}
+
+.div-styles{
+  display:inline-block
+  width
+}
+
+
 
 
 /* Compleate challenge down here */
